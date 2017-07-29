@@ -253,10 +253,10 @@ if (weekName.equals(weekIdentifier)) {
 		  SalesValue.mean = SalesValue.mean/(double)totalRecord;
 		  Discount.mean = Discount.mean/(double)totalRecord;
 		  
-		  System.out.println("UnitsSold: Null: " + UnitsSold.nullCount + " , Zero: " + UnitsSold.zerocount + " ,Mean: " + UnitsSold.mean);
-		  System.out.println("SalesValue: Null: " + SalesValue.nullCount + " , Zero: " + SalesValue.zerocount + " ,Mean: " + SalesValue.mean);
-		  System.out.println("Discount: Null: " + Discount.nullCount + " , Zero: " + Discount.zerocount + " ,Mean: " + Discount.mean);
-		  System.out.println("TotalCount: " + totalRecord);
+		  //System.out.println("UnitsSold: Null: " + UnitsSold.nullCount + " , Zero: " + UnitsSold.zerocount + " ,Mean: " + UnitsSold.mean);
+		  //System.out.println("SalesValue: Null: " + SalesValue.nullCount + " , Zero: " + SalesValue.zerocount + " ,Mean: " + SalesValue.mean);
+		  //System.out.println("Discount: Null: " + Discount.nullCount + " , Zero: " + Discount.zerocount + " ,Mean: " + Discount.mean);
+		  //System.out.println("TotalCount: " + totalRecord);
 
 		  UnitsSold unitsSold = new UnitsSold();
 		  SalesValue salesValue = new SalesValue();
@@ -279,8 +279,8 @@ if (weekName.equals(weekIdentifier)) {
 		  session.setAttribute("salesValue",salesValue);
 		  session.setAttribute("discount",discount);
 		  
-		  System.out.println("F : " + femaleGenCount + "M : " + maleGenCount + "U : " + UnknownGen + "NA : " + NAGen);
-		  System.out.println("M : " + marriedCount + "S : " + singleCount + "U : " + UnknownMS + "NA : " + NAMS);
+		  //System.out.println("F : " + femaleGenCount + "M : " + maleGenCount + "U : " + UnknownGen + "NA : " + NAGen);
+		  //System.out.println("M : " + marriedCount + "S : " + singleCount + "U : " + UnknownMS + "NA : " + NAMS);
 		  session.setAttribute("maleGenCount", maleGenCount);
 		  session.setAttribute("femaleGenCount",femaleGenCount);
 		  session.setAttribute("NAGen",NAGen); 
