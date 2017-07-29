@@ -1,0 +1,52 @@
+Store: Eastland Mall Sales: 982.9799999999999 purchasedUnits: 34.0 MemCount: 11 Avg BasketValue: 81.91499999999999 tranCount: 12 AvgSales: 89.36181818181818 Disc%Infinity
+Store: Irving Blvd Sales: 22125.42000000008 purchasedUnits: 650.0 MemCount: 164 Avg BasketValue: 118.95387096774236 tranCount: 186 AvgSales: 134.9110975609761 Disc%Infinity
+Store: Brookwood Sales: 3563.415000000002 purchasedUnits: 115.0 MemCount: 54 Avg BasketValue: 58.41663934426232 tranCount: 61 AvgSales: 65.9891666666667 Disc%Infinity
+Store: Oak Court Mall Sales: 766.575 purchasedUnits: 18.0 MemCount: 11 Avg BasketValue: 69.68863636363636 tranCount: 11 AvgSales: 69.68863636363636 Disc%Infinity
+Store: Northwoods Mall Sales: 4569.839999999999 purchasedUnits: 147.0 MemCount: 28 Avg BasketValue: 120.25894736842103 tranCount: 38 AvgSales: 163.2085714285714 Disc%Infinity
+Store: Scottdale-1 Sales: 7416.809999999999 purchasedUnits: 250.0 MemCount: 60 Avg BasketValue: 110.69865671641789 tranCount: 67 AvgSales: 123.61349999999997 Disc%Infinity
+Store: McKinley Park Sales: 524.4300000000001 purchasedUnits: 16.0 MemCount: 11 Avg BasketValue: 47.67545454545455 tranCount: 11 AvgSales: 47.67545454545455 Disc%Infinity
+Store: Oak Court Mall-1 Sales: 2453.804999999999 purchasedUnits: 73.0 MemCount: 39 Avg BasketValue: 53.34358695652172 tranCount: 46 AvgSales: 62.918076923076896 Disc%Infinity
+Store: Broadmoor Sales: 3553.9650000000006 purchasedUnits: 89.0 MemCount: 36 Avg BasketValue: 88.84912500000002 tranCount: 40 AvgSales: 98.72125000000001 Disc%Infinity
+Store: Mesa Sales: 3564.179999999999 purchasedUnits: 88.0 MemCount: 32 Avg BasketValue: 111.38062499999997 tranCount: 32 AvgSales: 111.38062499999997 Disc%Infinity
+Store: Christiana Sales: 6486.254999999999 purchasedUnits: 165.0 MemCount: 65 Avg BasketValue: 91.3557042253521 tranCount: 71 AvgSales: 99.78853846153845 Disc%Infinity
+Store: Elements.com Sales: 74146.1399999999 purchasedUnits: 2368.0 MemCount: 640 Avg BasketValue: 97.04992146596845 tranCount: 764 AvgSales: 115.85334374999984 Disc%Infinity
+Store: Concord Mall Sales: 7665.3 purchasedUnits: 251.0 MemCount: 54 Avg BasketValue: 123.63387096774194 tranCount: 62 AvgSales: 141.95000000000002 Disc%Infinity
+Store: German Town-1 Sales: 28995.97500000024 purchasedUnits: 897.0 MemCount: 227 Avg BasketValue: 113.26552734375093 tranCount: 256 AvgSales: 127.73557268722573 Disc%Infinity
+Store: Quail Springs Mall Sales: 15319.349999999995 purchasedUnits: 406.0 MemCount: 144 Avg BasketValue: 93.98374233128831 tranCount: 163 AvgSales: 106.38437499999996 Disc%Infinity
+Store: Southpark Mall Sales: 13621.184999999992 purchasedUnits: 308.0 MemCount: 93 Avg BasketValue: 116.42038461538455 tranCount: 117 AvgSales: 146.4643548387096 Disc%Infinity
+Store: Sooner Mall Sales: 5626.484999999994 purchasedUnits: 167.0 MemCount: 43 Avg BasketValue: 125.03299999999987 tranCount: 45 AvgSales: 130.8484883720929 Disc%Infinity
+Store: White Marsh Sales: 8271.405 purchasedUnits: 249.0 MemCount: 80 Avg BasketValue: 95.07362068965519 tranCount: 87 AvgSales: 103.39256250000001 Disc%Infinity
+Store: Metrocenter Mall 2 Sales: 12379.409999999996 purchasedUnits: 359.0 MemCount: 125 Avg BasketValue: 90.36065693430655 tranCount: 137 AvgSales: 99.03527999999997 Disc%Infinity
+Store: Northlake Mall Sales: 27680.31000000021 purchasedUnits: 808.0 MemCount: 225 Avg BasketValue: 108.97759842519767 tranCount: 254 AvgSales: 123.02360000000093 Disc%Infinity
+Store: White Oaks Mall Sales: 5247.764999999995 purchasedUnits: 169.0 MemCount: 64 Avg BasketValue: 69.97019999999993 tranCount: 75 AvgSales: 81.99632812499992 Disc%Infinity
+Store: Greenwood Park Mall Sales: 13356.854999999998 purchasedUnits: 410.0 MemCount: 139 Avg BasketValue: 87.29970588235292 tranCount: 153 AvgSales: 96.09248201438847 Disc%Infinity
+Store: Sunnyvale Sales: 1418.985 purchasedUnits: 38.0 MemCount: 15 Avg BasketValue: 94.59899999999999 tranCount: 15 AvgSales: 94.59899999999999 Disc%Infinity
+Store: Penn Square Mall Sales: 9712.215 purchasedUnits: 226.0 MemCount: 97 Avg BasketValue: 80.2662396694215 tranCount: 121 AvgSales: 100.12592783505154 Disc%Infinity
+Store: Louis Joilet Mall Sales: 15162.254999999985 purchasedUnits: 478.0 MemCount: 200 Avg BasketValue: 71.85902843601889 tranCount: 211 AvgSales: 75.81127499999992 Disc%Infinity
+Store: Tucson Mall Sales: 6868.259999999995 purchasedUnits: 199.0 MemCount: 80 Avg BasketValue: 81.76499999999994 tranCount: 84 AvgSales: 85.85324999999993 Disc%Infinity
+Store: E Broadway Blvd Sales: 181.89 purchasedUnits: 6.0 MemCount: 2 Avg BasketValue: 90.945 tranCount: 2 AvgSales: 90.945 Disc%Infinity
+Store: Crossroads Mall Sales: 3011.175 purchasedUnits: 89.0 MemCount: 18 Avg BasketValue: 150.55875 tranCount: 20 AvgSales: 167.28750000000002 Disc%Infinity
+Store: Beverly Center Sales: 5818.634999999997 purchasedUnits: 178.0 MemCount: 70 Avg BasketValue: 70.9589634146341 tranCount: 82 AvgSales: 83.12335714285709 Disc%Infinity
+Store: German Town 2 Sales: 4234.095 purchasedUnits: 97.0 MemCount: 45 Avg BasketValue: 86.41010204081633 tranCount: 49 AvgSales: 94.09100000000001 Disc%Infinity
+Store: Northpark Mall Sales: 4082.8500000000013 purchasedUnits: 98.0 MemCount: 48 Avg BasketValue: 80.0558823529412 tranCount: 51 AvgSales: 85.05937500000003 Disc%Infinity
+Store: Golden Gate Ave Sales: 4993.109999999998 purchasedUnits: 111.0 MemCount: 45 Avg BasketValue: 101.90020408163261 tranCount: 49 AvgSales: 110.95799999999996 Disc%Infinity
+Store: Northlake Mall-1 Sales: 1023.93 purchasedUnits: 29.0 MemCount: 12 Avg BasketValue: 73.13785714285714 tranCount: 14 AvgSales: 85.3275 Disc%Infinity
+Store: Oak Hill Sales: 3369.4649999999983 purchasedUnits: 108.0 MemCount: 21 Avg BasketValue: 140.39437499999994 tranCount: 24 AvgSales: 160.4507142857142 Disc%Infinity
+Store: McKinley Park-1 Sales: 10811.070000000007 purchasedUnits: 235.0 MemCount: 96 Avg BasketValue: 100.10250000000006 tranCount: 108 AvgSales: 112.61531250000007 Disc%Infinity
+Store: Illinois Star Centre Sales: 2167.515000000001 purchasedUnits: 95.0 MemCount: 38 Avg BasketValue: 54.18787500000002 tranCount: 40 AvgSales: 57.03986842105265 Disc%Infinity
+Store: Downtown LA Sales: 6162.615 purchasedUnits: 141.0 MemCount: 47 Avg BasketValue: 108.11605263157894 tranCount: 57 AvgSales: 131.11946808510638 Disc%Infinity
+Store: Beverly Center 2 Sales: 1901.3399999999997 purchasedUnits: 52.0 MemCount: 29 Avg BasketValue: 63.37799999999999 tranCount: 30 AvgSales: 65.56344827586206 Disc%Infinity
+Store: Valley Plaza Mall Sales: 9347.354999999998 purchasedUnits: 349.0 MemCount: 94 Avg BasketValue: 86.54958333333332 tranCount: 108 AvgSales: 99.43994680851061 Disc%Infinity
+Store: Metrocenter Mall Sales: 816.1199999999999 purchasedUnits: 31.0 MemCount: 11 Avg BasketValue: 74.19272727272727 tranCount: 11 AvgSales: 74.19272727272727 Disc%Infinity
+Store: Florence Mall Sales: 2464.83 purchasedUnits: 67.0 MemCount: 32 Avg BasketValue: 72.495 tranCount: 34 AvgSales: 77.0259375 Disc%Infinity
+Store: German Town Sales: 4096.124999999996 purchasedUnits: 95.0 MemCount: 43 Avg BasketValue: 89.04619565217384 tranCount: 46 AvgSales: 95.25872093023247 Disc%Infinity
+Store: Westfield North County Sales: 16807.36499999998 purchasedUnits: 507.0 MemCount: 181 Avg BasketValue: 78.53908878504663 tranCount: 214 AvgSales: 92.85837016574574 Disc%Infinity
+Store: Hickory Point Mall Sales: 5170.0049999999965 purchasedUnits: 155.0 MemCount: 62 Avg BasketValue: 69.86493243243238 tranCount: 74 AvgSales: 83.38717741935479 Disc%Infinity
+Store: Houston Galleria Sales: 16087.769999999964 purchasedUnits: 514.0 MemCount: 141 Avg BasketValue: 98.09615853658515 tranCount: 164 AvgSales: 114.09765957446783 Disc%Infinity
+Store: Bowie Town Centre Sales: 2861.3250000000007 purchasedUnits: 80.0 MemCount: 35 Avg BasketValue: 73.3673076923077 tranCount: 39 AvgSales: 81.75214285714287 Disc%Infinity
+Store: College Hits Mall Sales: 19831.320000000032 purchasedUnits: 625.0 MemCount: 182 Avg BasketValue: 97.21235294117663 tranCount: 204 AvgSales: 108.96329670329688 Disc%Infinity
+Store: Riverchase Galleria Sales: 15970.634999999977 purchasedUnits: 421.0 MemCount: 146 Avg BasketValue: 105.7657947019866 tranCount: 151 AvgSales: 109.38791095890394 Disc%Infinity
+Store: Desert Sky Mall Sales: 19863.63000000004 purchasedUnits: 541.0 MemCount: 167 Avg BasketValue: 109.1408241758244 tranCount: 182 AvgSales: 118.94389221556911 Disc%Infinity
+Store: Highland Mall Sales: 7055.415000000001 purchasedUnits: 165.0 MemCount: 76 Avg BasketValue: 83.00488235294118 tranCount: 85 AvgSales: 92.83440789473686 Disc%Infinity
+Store: Evansville Sales: 6897.509999999985 purchasedUnits: 158.0 MemCount: 65 Avg BasketValue: 97.14802816901387 tranCount: 71 AvgSales: 106.11553846153822 Disc%Infinity
+Store: Westfield Mall Sales: 6189.254999999993 purchasedUnits: 132.0 MemCount: 60 Avg BasketValue: 96.70710937499989 tranCount: 64 AvgSales: 103.15424999999988 Disc%Infinity
